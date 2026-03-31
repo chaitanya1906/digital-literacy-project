@@ -1,0 +1,11 @@
+Case Study 
+"Phishing is a deceptive practice where attackers pose as legitimate institutions to steal sensitive data. In a typical scenario, a student receives a 'critical' email from a fake university helpdesk claiming their account will be deactivated unless they 'verify' their password via a link. The link leads to a cloned login page. Once the student enters their credentials, the attacker gains full access to their university portal and linked personal emails. Consequences include identity theft, loss of academic data, and potential financial fraud if bank details are saved in the browser. This highlights the need for 'Zero Trust' when clicking links from unknown senders."
+Prevention Checklist:
+•	Verify the sender's email address for typos.
+•	Never share OTPs (One-Time Passwords) with anyone.
+•	Financial Safety: Use the 'Block' feature in your UPI app for suspicious requests.
+•	Financial Safety: Set daily transaction limits on your UPI/Bank app.
+•	Keep your phone's OS and security apps updated.
+•	Avoid using public Wi-Fi for banking.
+•	Use a password manager for complex, unique passwords.
+•	Report Incidents: Use the National Cyber Crime Portal at cybercrime.gov.in or call the Helpline 1930.
